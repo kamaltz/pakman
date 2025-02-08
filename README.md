@@ -1,2 +1,2 @@
 # pakman
-game pakman from adobe animate
+game pacman from adobe animate
